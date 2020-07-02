@@ -4,4 +4,4 @@ The challenges can be found here :
 
 http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track
 
-Generally I use Python for these challenges, in an attempt to build on my Python skills. 
+Generally I use Python3 in Spyder3 for these challenges, in an attempt to build on my Python skills.
